@@ -1,6 +1,6 @@
 ### Hello there (yes, Obi-Wan Kenobi reference) 👋
 
-#### Computer Science and Engineering student based in Chile 📍. Python Lover 🐍🖤.
+#### Computer Science and Engineering student based in Chile 📍. Python & Jupyter Lover 🐍🖤🪐.
 #### Nature, Outdoor & Travel Photography Enthusiast 📸🏔️.
 
 - 🔭 I’m currently working on computer clusters automation studies in the field of Particle physics. 
