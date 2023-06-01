@@ -7,8 +7,8 @@
 - 🌱 I’m currently (and will keep) studying Data Science and its applications.
 - 📫 How to reach me:
   - 👨‍💻 https://www.linkedin.com/in/danielhebel
-  - 🐦 https://twitter.com/danihebel
-  - 📷 https://instagram.com/danielhebel (you can see my photography here)
+  <!-- - 🐦 https://twitter.com/danihebel-->
+  <!-- - 📷 https://instagram.com/danielhebel (you can see my photography here)-->
   - 📧 daniel.hebel@gmail.com
 - 😄 Pronouns: He / him
 - ⚡ Fun fact: I do indeed, own a lightsaber.
