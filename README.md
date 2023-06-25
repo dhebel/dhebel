@@ -1,4 +1,5 @@
 ### Hello there (yes, Obi-Wan Kenobi reference) 👋
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielhebel/)](https://www.linkedin.com/in/danielhebel/)
 
 #### Computer Science and Engineering student based in Chile 📍. Python & Jupyter Lover 🐍🖤🪐.
 #### Nature, Outdoor & Travel Photography Enthusiast 📸🏔️.
