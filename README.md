@@ -11,12 +11,13 @@
   <!-- - 🐦 https://twitter.com/danihebel-->
   <!-- - 📷 https://instagram.com/danielhebel (you can see my photography here)-->
   - 📧 daniel.hebel@gmail.com
-- 😄 Pronouns: He / him
 - ⚡ Fun fact: I do indeed, own a lightsaber.
 - 💬 Ask me about anything. 
 
 <!--
 **dhebel/dhebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 😄 Pronouns: He / him
 
 Here are some ideas to get you started:
 
